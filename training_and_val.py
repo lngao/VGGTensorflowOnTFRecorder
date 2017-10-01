@@ -12,7 +12,7 @@ import TFrecorder
 # %%
 IMG_W = 32
 IMG_H = 32
-N_CLASSES = 5
+N_CLASSES = 18
 BATCH_SIZE = 32
 learning_rate = 0.01
 MAX_STEP = 15000  # it took me about one hour to complete the training.
